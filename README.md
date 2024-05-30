@@ -1,1 +1,1 @@
-# -Pediatric-Appendicitis-Detection-Using-Machine-Learning-
+In my whole dataset main challenge is to handle missing values though its medical dataset it very common to have large number of missing value in my dataset. I handle categorical missing value using KNN, Numerical missing value handling using Linear Imputation. Overall, after handling everything model performance are very good.
